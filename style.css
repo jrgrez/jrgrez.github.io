@@ -1,1 +1,16 @@
-Hola
+html{
+	font-family: calibri, serif;
+	background-color: #D6D6D6;
+}
+
+h1, h2{
+	text-align: center;
+}
+
+thead{
+	tr{
+		th{
+			margin: auto;
+		}
+	}
+}
